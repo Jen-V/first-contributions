@@ -3212,6 +3212,7 @@ yejashi
 - [Madan](https://github.com/Madanaa)
 - [Rednorme](https://github.com/Rednorme)
 - [Roberto Yudi](https://github.com/Roberto-Yudi)
+- [Jen Verhagen] (https://github.com/Jen-V)
 - [Sushant Chhetry](https://github.com/SushantChhetry)
 - [John Nolan](https://github.com/Fediry)
   [Siva Sundar](https://github.com/siivvaa)
